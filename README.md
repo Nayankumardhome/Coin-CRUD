@@ -2,6 +2,8 @@
 
 This project is a simple CRUD (Create, Read, Update, Delete) application for managing coins. Built with J2EE, Hibernate, HTML, and CSS, it showcases basic operations and serves as a foundation for learning CRUD principles. Additionally, the application supports bulk coin management using a CSV file.
 
+![Coin Management Animation](https://iconscout.com/lottie/animations/flip-coin)
+
 ## Project Description
 - **Developed** a robust platform for managing coins with comprehensive **CRUD (Create, Read, Update, Delete)** functionalities.
 - Implemented database operations using **Hibernate ORM** to ensure efficient and secure data management.
@@ -17,6 +19,8 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 - Upload a CSV file:
    - **New coins**: Add to the database.
    - **Existing coins**: Increase their quantity
+
+![Coin Collection Animation](https://iconscout.com/lottie/animations/collecting-coins)
 
 ## Technologies Used
 - **Backend**: Java, Hibernate

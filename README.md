@@ -7,6 +7,9 @@ This project is a simple CRUD (Create, Read, Update, Delete) application for man
 - View a list of all coins.
 - Edit coin details.
 - Delete coins.
+- Upload a CSV file:
+   - **New coins**: Add to the database.
+   - **Existing coins**: Increase their quantity
 
 ## Technologies Used
 - **Backend**: Java

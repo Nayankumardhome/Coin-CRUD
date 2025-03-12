@@ -1,5 +1,7 @@
 # Coin CRUD Application
 
+![Coin Animation](https://media.giphy.com/media/3oKIPuL57n0T03JmSc/giphy.gif)
+
 This project is a simple CRUD (Create, Read, Update, Delete) application for managing coins. Built with J2EE, Hibernate, HTML, and CSS, it showcases basic operations and serves as a foundation for learning CRUD principles. Additionally, the application supports bulk coin management using a CSV file.
 
 ## Project Description
